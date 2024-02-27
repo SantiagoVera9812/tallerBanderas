@@ -45,7 +45,7 @@ class CustomPaisAdapter(context: Context, paisList: List<Pais>) :
 
             }
         }
-        
+
         return view
     }
 }
